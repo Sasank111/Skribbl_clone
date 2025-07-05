@@ -132,7 +132,7 @@ Please respect the original creators of [skribbl.io](https://skribbl.io) and oth
 
 ### Screenshot References
 
-[landing]: ./public/images/screenshots/landing.jpeg
+[landing]: Skribbl_clone-main/public/images/screenshots/landing.jpeg
 [settings]: ./public/images/screenshots/settings.jpeg
 [game]: ./public/images/screenshots/game.png
 [scores]: ./public/images/screenshots/scores.jpeg
