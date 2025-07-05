@@ -65,17 +65,7 @@ npm start
 Once running, open your browser and go to:
  [http://localhost:3000](http://localhost:3000)
 
----
 
-##  Screenshots
-
-| Landing Page        | Settings Page         |
-| ------------------- | --------------------- |
-| ![Landing][landing] | ![Settings][settings] |
-
-| Game Canvas   | Scoreboard        |
-| ------------- | ----------------- |
-| ![Game][game] | ![Scores][scores] |
 
 ---
 
@@ -108,12 +98,9 @@ Skribblrs.io/
 
 ---
 
-##  License
 
-This project is intended for learning and non-commercial purposes.
-Please respect the original creators of [skribbl.io](https://skribbl.io) and other referenced libraries/resources.
 
----
+
 
 ##  Future Improvements
 
@@ -126,10 +113,6 @@ Please respect the original creators of [skribbl.io](https://skribbl.io) and oth
 
 
 
-[landing]: Skribbl_clone-main/public/images/screenshots/landing.jpeg
-[settings]: Skribbl_clone-main/public/images/screenshots/settings.jpeg
-[game]: Skribbl_clone-main/public/images/screenshots/game.png
-[scores]: Skribbl_clone-main/public/images/screenshots/scores.jpeg
 
----
+
 
