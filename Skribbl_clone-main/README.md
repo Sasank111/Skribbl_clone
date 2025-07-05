@@ -1,0 +1,61 @@
+# Skribblrs.io
+
+
+Skribblrs.io is my attempt at building a clone of the web-based drawing and guessing game [skribbl.io](https://skribbl.io).
+
+
+
+
+
+
+## Local setup
+
+The project requires Node.js to be installed on your system. To run the project locally:
+
+```bash
+git clone https://github.com/Sasank111/Skribbl_clone.git
+cd Skribblrs.io
+npm i
+npm run start
+```
+
+The app will run by default on port 3000. Open your browser and go to [http://localhost:3000](http://localhost:3000).
+
+## Screenshots
+
+| ![Landing page][landing]  | ![Landing page][settings] |
+|:-------------------------:|:-------------------------:|
+|  ![Landing page][game]    |  ![Landing page][scores]  |
+
+## Technologies used
+
+1. Back End
+    - [Node.js](https://github.com/nodejs/node)
+    - [Socket.io](https://github.com/socketio/socket.io)
+    - [Express](https://github.com/expressjs/express)
+    - [Chance](https://github.com/chancejs/chancejs)
+    - [Leven](https://github.com/sindresorhus/leven)
+    - [Nanoid](https://github.com/ai/nanoid)
+
+2. Front End
+    - [Socket.io client](https://github.com/socketio/socket.io-client)
+    - [EJS](https://github.com/mde/ejs)
+    - [Animate.css](https://github.com/animate-css/animate.css)
+    - [Howler.js](https://github.com/goldfire/howler.js)
+    - [DiceBear Avatars](https://github.com/DiceBear/avatars)
+    - [Bootstrap](https://github.com/twbs/bootstrap)
+    - [Varnam Transliteration API](https://github.com/varnamproject)
+
+
+## Credits
+
+1. Background Image: [https://skribbl.io/res/background.png](https://skribbl.io/res/background.png)
+2. Feature ideas: [https://github.com/scribble-rs/scribble.rs](https://github.com/scribble-rs/scribble.rs)
+3. Sounds: [https://freesound.org/](https://freesound.org/)
+
+
+
+[landing]: ./public/images/screenshots/landing.jpeg
+[settings]: ./public/images/screenshots/settings.jpeg
+[game]: ./public/images/screenshots/game.png
+[scores]: ./public/images/screenshots/scores.jpeg
