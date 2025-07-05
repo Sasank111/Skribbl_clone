@@ -63,7 +63,7 @@ npm start
 ### Access the App
 
 Once running, open your browser and go to:
-👉 [http://localhost:3000](http://localhost:3000)
+ [http://localhost:3000](http://localhost:3000)
 
 ---
 
@@ -126,16 +126,10 @@ Please respect the original creators of [skribbl.io](https://skribbl.io) and oth
 
 
 
-### [⬆️ Back to Top](#-skribblrsio)
-
----
-
-### Screenshot References
-
 [landing]: Skribbl_clone-main/public/images/screenshots/landing.jpeg
-[settings]: ./public/images/screenshots/settings.jpeg
-[game]: ./public/images/screenshots/game.png
-[scores]: ./public/images/screenshots/scores.jpeg
+[settings]: Skribbl_clone-main/public/images/screenshots/settings.jpeg
+[game]: Skribbl_clone-main/public/images/screenshots/game.png
+[scores]: Skribbl_clone-main/public/images/screenshots/scores.jpeg
 
 ---
 
